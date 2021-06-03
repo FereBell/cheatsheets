@@ -1,5 +1,5 @@
 # Cheat Sheets
-En este repositorio encontrarás "hojas de trampa" que te ayudarán a aprender rapidamente conceptos de Deep Learning y Machine Learning. 
+En este repositorio encontrarás "hojas de trampa" que te ayudarán a aprender rapidamente conceptos de Deep Learning y Machine Learning, Inteligencia Artificial en general 
 
 👉No más perdida de tiempo en vídeos eternos 
 
